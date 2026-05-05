@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MvcOzet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b8837b54dacd2edb153979d62c90b7514c9a78e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f493915e6d140d3c98d6bafadf8cbfa1b6765395")]
 [assembly: System.Reflection.AssemblyProductAttribute("MvcOzet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MvcOzet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
